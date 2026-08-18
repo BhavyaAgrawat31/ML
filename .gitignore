@@ -7,3 +7,4 @@ models/
 *.pkl
 *.joblib
 .env
+brazilian-ecommerce.zip
